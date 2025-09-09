@@ -11,6 +11,16 @@ A Python script that adds page numbers to PDF files in the format "current page 
 - Maintains original page dimensions
 - Clean, professional appearance using Helvetica font
 
+## Visual Example
+
+### Before (Original PDF)
+![Input PDF without page numbers](docs/input.jpg)
+
+### After (With Page Numbers Added)
+![Output PDF with page numbers](docs/output.jpg)
+
+As you can see, the script adds clean, professional page numbers at the bottom center of each page without affecting the original content.
+
 ## Requirements
 
 - Python 3.6+
